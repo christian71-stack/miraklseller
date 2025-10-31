@@ -18,7 +18,7 @@ To install the bindings via [Composer](https://getcomposer.org/), add the follow
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/christian71-stack/MiraklSeller.git"
+      "url": "https://github.com/christian71-stack/miraklseller.git"
     }
   ],
   "require": {
