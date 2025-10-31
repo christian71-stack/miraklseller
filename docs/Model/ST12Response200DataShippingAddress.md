@@ -1,0 +1,23 @@
+# # ST12Response200DataShippingAddress
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**additional_info** | **string** | Additional information for the shipping address | [optional]
+**city** | **string** | Address city | [optional]
+**civility** | **string** | Civility of the person associated with the address | [optional]
+**company** | **string** | Company of the person associated with the address | [optional]
+**company_2** | **string** | Second company information of the person associated with the address | [optional]
+**country** | **string** | Address country | [optional]
+**country_iso_code** | **string** | Country ISO 3166-1 code of the address | [optional]
+**firstname** | **string** | First name of the person associated with the address | [optional]
+**lastname** | **string** | Last name of the person associated with the address | [optional]
+**phone** | **string** | Phone | [optional]
+**phone_secondary** | **string** | Phone secondary | [optional]
+**state** | **string** | Address state | [optional]
+**street_1** | **string** | First information line of the address street | [optional]
+**street_2** | **string** | Second information line of the address street | [optional]
+**zip_code** | **string** | Address zip code | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

@@ -1,0 +1,10 @@
+# # RT25Response200
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**return_errors** | [**\cbdesk\Mirakl\Model\RT25Response200ReturnErrors[]**](RT25Response200ReturnErrors.md) | Returns update errors | [optional]
+**return_success** | [**\cbdesk\Mirakl\Model\RT25Response200ReturnSuccess[]**](RT25Response200ReturnSuccess.md) | Returns update success | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
