@@ -22,7 +22,7 @@ To install the bindings via [Composer](https://getcomposer.org/), add the follow
     }
   ],
   "require": {
-    "christian71-stack/miraklseller": "*@dev"
+    "christian71-stack/miraklseller": "^1.0"
   }
 }
 ```
